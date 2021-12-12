@@ -1,0 +1,473 @@
+CRITICAL | 2021-12-09 22:02:21,375 | Config file could not be opened, please check the path or the existence of the file.
+CRITICAL | 2021-12-09 22:02:21,375 | One or more keys have not been found in the config.json file, please ensure all of the keys/parameters configured.
+ERROR | 2021-12-09 22:02:21,375 | Could not complete the fetching of Covid and/or News data through the APIs. Please check the network connection
+ERROR | 2021-12-09 22:02:21,375 | Could not parse the local CSV data, please check the existence/correctness of the file and its' name/path
+INFO | 2021-12-09 22:02:21,386 |  * Restarting with stat
+CRITICAL | 2021-12-09 22:02:21,683 | Config file could not be opened, please check the path or the existence of the file.
+CRITICAL | 2021-12-09 22:02:21,683 | One or more keys have not been found in the config.json file, please ensure all of the keys/parameters configured.
+ERROR | 2021-12-09 22:02:21,683 | Could not complete the fetching of Covid and/or News data through the APIs. Please check the network connection
+ERROR | 2021-12-09 22:02:21,683 | Could not parse the local CSV data, please check the existence/correctness of the file and its' name/path
+WARNING | 2021-12-09 22:02:21,689 |  * Debugger is active!
+INFO | 2021-12-09 22:02:21,691 |  * Debugger PIN: 767-662-726
+INFO | 2021-12-09 22:02:21,714 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-09 22:02:33,460 | Next scheduled update: None Seconds
+INFO | 2021-12-09 22:02:33,467 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO | 2021-12-09 22:02:33,760 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:33,760 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:33,768 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:33,777 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:33,786 | 127.0.0.1 - - [09/Dec/2021 22:02:33] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:49,558 | Next scheduled update: None Seconds
+INFO | 2021-12-09 22:02:49,564 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO | 2021-12-09 22:02:49,584 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "GET /index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:49,585 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "GET /index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:49,630 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:49,638 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "GET /index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO | 2021-12-09 22:02:49,648 | 127.0.0.1 - - [09/Dec/2021 22:02:49] "GET /index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR | 2021-12-09 22:06:12,861 | Could not complete the fetching of Covid and/or News data through the APIs. Please check the network connection or the API key
+INFO | 2021-12-09 22:06:12,873 |  * Restarting with stat
+ERROR | 2021-12-09 22:06:14,124 | Could not complete the fetching of Covid and/or News data through the APIs. Please check the network connection or the API key
+WARNING | 2021-12-09 22:06:14,132 |  * Debugger is active!
+INFO | 2021-12-09 22:06:14,133 |  * Debugger PIN: 767-662-726
+INFO | 2021-12-09 22:06:14,155 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-09 22:07:44,992 |  * Restarting with stat
+WARNING | 2021-12-09 22:07:47,166 |  * Debugger is active!
+INFO | 2021-12-09 22:07:47,167 |  * Debugger PIN: 767-662-726
+INFO | 2021-12-09 22:07:47,193 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-09 22:07:50,136 | Next scheduled update: None Seconds
+INFO | 2021-12-09 22:07:50,142 | 127.0.0.1 - - [09/Dec/2021 22:07:50] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-09 22:07:50,362 | 127.0.0.1 - - [09/Dec/2021 22:07:50] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:08:22,109 | Next scheduled update: None Seconds
+INFO | 2021-12-09 22:08:22,109 | Adding the following update: Update Label
+INFO | 2021-12-09 22:08:22,110 | Added the following update: Covid Data to be updated, initiated at 2021-9-9 - 22:8:22, with a delay of (Seconds) 60
+INFO | 2021-12-09 22:08:22,110 | 127.0.0.1 - - [09/Dec/2021 22:08:22] "GET /index?update=22%3A09&two=Update+Label&covid-data=covid-data HTTP/1.1" 200 -
+INFO | 2021-12-09 22:08:22,133 | 127.0.0.1 - - [09/Dec/2021 22:08:22] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:08:32,945 | Next scheduled update: 49.16413736343384 Seconds
+INFO | 2021-12-09 22:08:32,945 | 127.0.0.1 - - [09/Dec/2021 22:08:32] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-09 22:08:32,973 | 127.0.0.1 - - [09/Dec/2021 22:08:32] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:08:35,281 | Next scheduled update: 46.828707695007324 Seconds
+INFO | 2021-12-09 22:08:35,281 | Deleting the following news: Mounting evidence highlights the importance of Covid-19 boosters
+INFO | 2021-12-09 22:08:35,281 | Deleted the following news: Mounting evidence highlights the importance of Covid-19 boosters
+INFO | 2021-12-09 22:08:35,282 | 127.0.0.1 - - [09/Dec/2021 22:08:35] "GET /index?notif=Mounting+evidence+highlights+the+importance+of+Covid-19+boosters HTTP/1.1" 200 -
+INFO | 2021-12-09 22:08:35,307 | 127.0.0.1 - - [09/Dec/2021 22:08:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:08:38,335 | Next scheduled update: 43.77395153045654 Seconds
+INFO | 2021-12-09 22:08:38,335 | Deleting the following news: Covid-19: Ireland closes nightclubs and tightens Covid rules
+INFO | 2021-12-09 22:08:38,335 | Deleted the following news: Covid-19: Ireland closes nightclubs and tightens Covid rules
+INFO | 2021-12-09 22:08:38,337 | 127.0.0.1 - - [09/Dec/2021 22:08:38] "GET /index?notif=Covid-19%3A+Ireland+closes+nightclubs+and+tightens+Covid+rules HTTP/1.1" 200 -
+INFO | 2021-12-09 22:08:38,363 | 127.0.0.1 - - [09/Dec/2021 22:08:38] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:08:40,489 | Next scheduled update: 41.620166540145874 Seconds
+INFO | 2021-12-09 22:08:40,489 | Deleting the following news: Rotterdam police clash with rioters as Covid protest turns violent
+INFO | 2021-12-09 22:08:40,489 | Deleted the following news: Rotterdam police clash with rioters as Covid protest turns violent
+INFO | 2021-12-09 22:08:40,490 | 127.0.0.1 - - [09/Dec/2021 22:08:40] "GET /index?notif=Rotterdam+police+clash+with+rioters+as+Covid+protest+turns+violent HTTP/1.1" 200 -
+INFO | 2021-12-09 22:08:40,519 | 127.0.0.1 - - [09/Dec/2021 22:08:40] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:09:31,207 | Next scheduled update: None Seconds
+INFO | 2021-12-09 22:09:31,207 | Adding the following update: Update Label V2
+INFO | 2021-12-09 22:09:31,208 | Added the following update: Covid Data to be updated, initiated at 2021-9-9 - 22:9:31, with a delay of (Seconds) 75240
+INFO | 2021-12-09 22:09:31,208 | Added the following update: Covid Data to be updated, initiated at 2021-9-9 - 22:9:31, with a delay of (Seconds) 161640 through the usage of the repeat flag.
+INFO | 2021-12-09 22:09:31,209 | Added the following update: News to be updated, initiated at 2021-9-9 - 22:9:31, with a delay of (Seconds) 75240
+INFO | 2021-12-09 22:09:31,209 | Added the following update: News to be updated, initiated at 2021-9-9 - 22:9:31, with a delay of (Seconds) 161640 through the usage of the repeat flag.
+INFO | 2021-12-09 22:09:31,210 | 127.0.0.1 - - [09/Dec/2021 22:09:31] "GET /index?update=01%3A15&two=Update+Label+V2&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1" 200 -
+INFO | 2021-12-09 22:09:31,249 | 127.0.0.1 - - [09/Dec/2021 22:09:31] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:09:35,525 | Next scheduled update: 75235.68244934082 Seconds
+INFO | 2021-12-09 22:09:35,525 | 127.0.0.1 - - [09/Dec/2021 22:09:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-09 22:09:35,548 | 127.0.0.1 - - [09/Dec/2021 22:09:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:09:57,242 | Next scheduled update: 75213.96510696411 Seconds
+INFO | 2021-12-09 22:09:57,243 | 127.0.0.1 - - [09/Dec/2021 22:09:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-09 22:09:57,261 | 127.0.0.1 - - [09/Dec/2021 22:09:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:10:02,190 | Next scheduled update: 75209.01748037338 Seconds
+INFO | 2021-12-09 22:10:02,191 | Deleting the following update: Update Label
+WARNING | 2021-12-09 22:10:02,191 | The event_handler could not be found, might already be executed
+INFO | 2021-12-09 22:10:02,191 | Deleted the following update: Update Label
+INFO | 2021-12-09 22:10:02,192 | 127.0.0.1 - - [09/Dec/2021 22:10:02] "GET /index?update_item=Update+Label HTTP/1.1" 200 -
+INFO | 2021-12-09 22:10:02,219 | 127.0.0.1 - - [09/Dec/2021 22:10:02] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-09 22:10:11,199 | Next scheduled update: 75200.00856161118 Seconds
+INFO | 2021-12-09 22:10:11,199 | Deleting the following update: Update Label V2
+INFO | 2021-12-09 22:10:11,199 | Deleted the following update: Update Label V2
+INFO | 2021-12-09 22:10:11,199 | 127.0.0.1 - - [09/Dec/2021 22:10:11] "GET /index?update_item=Update+Label+V2 HTTP/1.1" 200 -
+INFO | 2021-12-09 22:10:11,224 | 127.0.0.1 - - [09/Dec/2021 22:10:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-11 22:51:18,983 |  * Restarting with stat
+WARNING | 2021-12-11 22:51:20,622 |  * Debugger is active!
+INFO | 2021-12-11 22:51:20,624 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 22:51:21,889 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-11 22:57:53,573 |  * Restarting with stat
+WARNING | 2021-12-11 22:57:56,537 |  * Debugger is active!
+INFO | 2021-12-11 22:57:56,552 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 22:57:57,092 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-11 23:00:44,879 |  * Restarting with stat
+WARNING | 2021-12-11 23:00:45,841 |  * Debugger is active!
+INFO | 2021-12-11 23:00:45,841 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 23:00:46,243 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-11 23:03:18,511 |  * Restarting with stat
+WARNING | 2021-12-11 23:03:20,235 |  * Debugger is active!
+INFO | 2021-12-11 23:03:20,244 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 23:03:20,646 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-11 23:29:39,241 |  * Restarting with stat
+WARNING | 2021-12-11 23:29:40,644 |  * Debugger is active!
+INFO | 2021-12-11 23:29:40,644 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 23:29:41,016 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-11 23:59:48,658 |  * Restarting with stat
+WARNING | 2021-12-11 23:59:50,177 |  * Debugger is active!
+INFO | 2021-12-11 23:59:50,177 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-11 23:59:50,732 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 00:13:09,746 |  * Restarting with stat
+WARNING | 2021-12-12 00:13:10,958 |  * Debugger is active!
+INFO | 2021-12-12 00:13:10,958 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 00:13:11,393 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 00:15:07,105 |  * Restarting with stat
+WARNING | 2021-12-12 00:15:08,503 |  * Debugger is active!
+INFO | 2021-12-12 00:15:08,519 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 00:15:08,906 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 11:28:37,022 |  * Restarting with stat
+WARNING | 2021-12-12 11:28:38,523 |  * Debugger is active!
+INFO | 2021-12-12 11:28:38,531 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 11:28:39,777 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 11:28:42,649 | 127.0.0.1 - - [12/Dec/2021 11:28:42] "[33mGET / HTTP/1.1[0m" 404 -
+INFO | 2021-12-12 11:28:42,726 | 127.0.0.1 - - [12/Dec/2021 11:28:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO | 2021-12-12 11:28:51,575 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:28:51,622 | 127.0.0.1 - - [12/Dec/2021 11:28:51] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:28:52,441 | 127.0.0.1 - - [12/Dec/2021 11:28:52] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:29:52,749 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:29:52,749 | 127.0.0.1 - - [12/Dec/2021 11:29:52] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:29:52,788 | 127.0.0.1 - - [12/Dec/2021 11:29:52] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:30:52,865 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:30:52,865 | 127.0.0.1 - - [12/Dec/2021 11:30:52] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:30:52,896 | 127.0.0.1 - - [12/Dec/2021 11:30:52] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:31:52,975 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:31:52,975 | 127.0.0.1 - - [12/Dec/2021 11:31:52] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:31:53,018 | 127.0.0.1 - - [12/Dec/2021 11:31:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:32:53,096 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:32:53,096 | 127.0.0.1 - - [12/Dec/2021 11:32:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:32:53,145 | 127.0.0.1 - - [12/Dec/2021 11:32:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:33:53,222 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:33:53,222 | 127.0.0.1 - - [12/Dec/2021 11:33:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:33:53,266 | 127.0.0.1 - - [12/Dec/2021 11:33:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:34:53,354 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:34:53,356 | 127.0.0.1 - - [12/Dec/2021 11:34:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:34:53,402 | 127.0.0.1 - - [12/Dec/2021 11:34:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:35:53,484 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:35:53,484 | 127.0.0.1 - - [12/Dec/2021 11:35:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:35:53,531 | 127.0.0.1 - - [12/Dec/2021 11:35:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:36:53,606 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:36:53,606 | 127.0.0.1 - - [12/Dec/2021 11:36:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:36:53,652 | 127.0.0.1 - - [12/Dec/2021 11:36:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:37:53,720 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:37:53,720 | 127.0.0.1 - - [12/Dec/2021 11:37:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:37:53,763 | 127.0.0.1 - - [12/Dec/2021 11:37:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:38:53,836 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:38:53,836 | 127.0.0.1 - - [12/Dec/2021 11:38:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:38:53,877 | 127.0.0.1 - - [12/Dec/2021 11:38:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:39:53,946 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:39:53,946 | 127.0.0.1 - - [12/Dec/2021 11:39:53] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:39:53,988 | 127.0.0.1 - - [12/Dec/2021 11:39:53] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:40:54,065 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:40:54,067 | 127.0.0.1 - - [12/Dec/2021 11:40:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:40:54,108 | 127.0.0.1 - - [12/Dec/2021 11:40:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:41:54,212 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:41:54,212 | 127.0.0.1 - - [12/Dec/2021 11:41:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:41:54,253 | 127.0.0.1 - - [12/Dec/2021 11:41:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:42:54,343 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:42:54,343 | 127.0.0.1 - - [12/Dec/2021 11:42:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:42:54,383 | 127.0.0.1 - - [12/Dec/2021 11:42:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:43:54,454 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:43:54,454 | 127.0.0.1 - - [12/Dec/2021 11:43:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:43:54,497 | 127.0.0.1 - - [12/Dec/2021 11:43:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:44:54,569 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:44:54,569 | 127.0.0.1 - - [12/Dec/2021 11:44:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:44:54,601 | 127.0.0.1 - - [12/Dec/2021 11:44:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:45:54,675 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:45:54,676 | 127.0.0.1 - - [12/Dec/2021 11:45:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:45:54,710 | 127.0.0.1 - - [12/Dec/2021 11:45:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:46:54,779 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:46:54,779 | 127.0.0.1 - - [12/Dec/2021 11:46:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:46:54,817 | 127.0.0.1 - - [12/Dec/2021 11:46:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:47:54,873 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:47:54,881 | 127.0.0.1 - - [12/Dec/2021 11:47:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:47:54,920 | 127.0.0.1 - - [12/Dec/2021 11:47:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:48:54,981 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:48:54,981 | 127.0.0.1 - - [12/Dec/2021 11:48:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:48:55,031 | 127.0.0.1 - - [12/Dec/2021 11:48:55] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:49:55,092 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:49:55,092 | 127.0.0.1 - - [12/Dec/2021 11:49:55] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:49:55,131 | 127.0.0.1 - - [12/Dec/2021 11:49:55] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:50:55,199 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:50:55,199 | 127.0.0.1 - - [12/Dec/2021 11:50:55] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:50:55,242 | 127.0.0.1 - - [12/Dec/2021 11:50:55] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:51:31,576 |  * Detected change in 'c:\\Users\\ma693\\Desktop\\_wrkspc\\project\\main.py', reloading
+INFO | 2021-12-12 11:51:31,633 |  * Restarting with stat
+WARNING | 2021-12-12 11:51:34,374 |  * Debugger is active!
+INFO | 2021-12-12 11:51:34,374 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 11:51:34,963 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 11:51:39,618 |  * Restarting with stat
+WARNING | 2021-12-12 11:51:41,032 |  * Debugger is active!
+INFO | 2021-12-12 11:51:41,048 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 11:51:41,545 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 11:51:43,545 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:51:43,561 | 127.0.0.1 - - [12/Dec/2021 11:51:43] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:51:44,501 | 127.0.0.1 - - [12/Dec/2021 11:51:44] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:52:07,143 |  * Restarting with stat
+WARNING | 2021-12-12 11:52:08,373 |  * Debugger is active!
+INFO | 2021-12-12 11:52:08,373 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 11:52:08,793 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 11:52:09,653 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:52:09,670 | 127.0.0.1 - - [12/Dec/2021 11:52:09] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:52:10,010 | 127.0.0.1 - - [12/Dec/2021 11:52:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:53:10,047 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:53:10,047 | 127.0.0.1 - - [12/Dec/2021 11:53:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:53:10,092 | 127.0.0.1 - - [12/Dec/2021 11:53:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:54:10,155 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:54:10,155 | 127.0.0.1 - - [12/Dec/2021 11:54:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:54:10,192 | 127.0.0.1 - - [12/Dec/2021 11:54:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:55:10,254 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:55:10,254 | 127.0.0.1 - - [12/Dec/2021 11:55:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:55:10,292 | 127.0.0.1 - - [12/Dec/2021 11:55:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:56:10,366 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:56:10,366 | 127.0.0.1 - - [12/Dec/2021 11:56:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:56:10,412 | 127.0.0.1 - - [12/Dec/2021 11:56:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:57:10,485 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:57:10,485 | 127.0.0.1 - - [12/Dec/2021 11:57:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:57:10,537 | 127.0.0.1 - - [12/Dec/2021 11:57:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:58:10,614 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:58:10,616 | 127.0.0.1 - - [12/Dec/2021 11:58:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:58:10,657 | 127.0.0.1 - - [12/Dec/2021 11:58:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 11:59:10,719 | Next scheduled update: None Seconds
+INFO | 2021-12-12 11:59:10,722 | 127.0.0.1 - - [12/Dec/2021 11:59:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 11:59:10,766 | 127.0.0.1 - - [12/Dec/2021 11:59:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:00:10,842 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:00:10,842 | 127.0.0.1 - - [12/Dec/2021 12:00:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:00:10,884 | 127.0.0.1 - - [12/Dec/2021 12:00:10] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:01:10,965 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:01:10,965 | 127.0.0.1 - - [12/Dec/2021 12:01:10] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:01:11,008 | 127.0.0.1 - - [12/Dec/2021 12:01:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:02:11,086 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:02:11,086 | 127.0.0.1 - - [12/Dec/2021 12:02:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:02:11,132 | 127.0.0.1 - - [12/Dec/2021 12:02:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:03:11,200 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:03:11,201 | 127.0.0.1 - - [12/Dec/2021 12:03:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:03:11,247 | 127.0.0.1 - - [12/Dec/2021 12:03:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:04:11,318 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:04:11,318 | 127.0.0.1 - - [12/Dec/2021 12:04:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:04:11,365 | 127.0.0.1 - - [12/Dec/2021 12:04:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:05:11,431 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:05:11,431 | 127.0.0.1 - - [12/Dec/2021 12:05:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:05:11,477 | 127.0.0.1 - - [12/Dec/2021 12:05:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:06:11,551 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:06:11,551 | 127.0.0.1 - - [12/Dec/2021 12:06:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:06:11,594 | 127.0.0.1 - - [12/Dec/2021 12:06:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:07:11,668 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:07:11,668 | 127.0.0.1 - - [12/Dec/2021 12:07:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:07:11,716 | 127.0.0.1 - - [12/Dec/2021 12:07:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:08:11,794 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:08:11,794 | 127.0.0.1 - - [12/Dec/2021 12:08:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:08:11,841 | 127.0.0.1 - - [12/Dec/2021 12:08:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:09:11,907 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:09:11,909 | 127.0.0.1 - - [12/Dec/2021 12:09:11] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:09:11,951 | 127.0.0.1 - - [12/Dec/2021 12:09:11] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:10:12,016 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:10:12,016 | 127.0.0.1 - - [12/Dec/2021 12:10:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:10:12,061 | 127.0.0.1 - - [12/Dec/2021 12:10:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:11:12,127 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:11:12,127 | 127.0.0.1 - - [12/Dec/2021 12:11:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:11:12,169 | 127.0.0.1 - - [12/Dec/2021 12:11:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:12:12,236 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:12:12,238 | 127.0.0.1 - - [12/Dec/2021 12:12:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:12:12,280 | 127.0.0.1 - - [12/Dec/2021 12:12:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:13:12,371 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:13:12,371 | 127.0.0.1 - - [12/Dec/2021 12:13:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:13:12,414 | 127.0.0.1 - - [12/Dec/2021 12:13:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:14:12,474 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:14:12,474 | 127.0.0.1 - - [12/Dec/2021 12:14:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:14:12,519 | 127.0.0.1 - - [12/Dec/2021 12:14:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:15:12,593 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:15:12,593 | 127.0.0.1 - - [12/Dec/2021 12:15:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:15:12,633 | 127.0.0.1 - - [12/Dec/2021 12:15:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:16:12,699 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:16:12,699 | 127.0.0.1 - - [12/Dec/2021 12:16:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:16:12,741 | 127.0.0.1 - - [12/Dec/2021 12:16:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:17:12,801 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:17:12,801 | 127.0.0.1 - - [12/Dec/2021 12:17:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:17:12,847 | 127.0.0.1 - - [12/Dec/2021 12:17:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:18:12,909 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:18:12,909 | 127.0.0.1 - - [12/Dec/2021 12:18:12] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:18:12,952 | 127.0.0.1 - - [12/Dec/2021 12:18:12] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:19:13,022 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:19:13,022 | 127.0.0.1 - - [12/Dec/2021 12:19:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:19:13,070 | 127.0.0.1 - - [12/Dec/2021 12:19:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:20:13,145 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:20:13,146 | 127.0.0.1 - - [12/Dec/2021 12:20:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:20:13,185 | 127.0.0.1 - - [12/Dec/2021 12:20:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:21:13,252 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:21:13,252 | 127.0.0.1 - - [12/Dec/2021 12:21:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:21:13,294 | 127.0.0.1 - - [12/Dec/2021 12:21:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:22:13,356 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:22:13,356 | 127.0.0.1 - - [12/Dec/2021 12:22:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:22:13,394 | 127.0.0.1 - - [12/Dec/2021 12:22:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:23:13,455 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:23:13,455 | 127.0.0.1 - - [12/Dec/2021 12:23:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:23:13,496 | 127.0.0.1 - - [12/Dec/2021 12:23:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:24:13,566 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:24:13,566 | 127.0.0.1 - - [12/Dec/2021 12:24:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:24:13,605 | 127.0.0.1 - - [12/Dec/2021 12:24:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:25:13,678 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:25:13,678 | 127.0.0.1 - - [12/Dec/2021 12:25:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:25:13,721 | 127.0.0.1 - - [12/Dec/2021 12:25:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:26:13,793 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:26:13,794 | 127.0.0.1 - - [12/Dec/2021 12:26:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:26:13,833 | 127.0.0.1 - - [12/Dec/2021 12:26:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:27:13,901 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:27:13,901 | 127.0.0.1 - - [12/Dec/2021 12:27:13] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:27:13,936 | 127.0.0.1 - - [12/Dec/2021 12:27:13] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:28:14,004 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:28:14,004 | 127.0.0.1 - - [12/Dec/2021 12:28:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:28:14,043 | 127.0.0.1 - - [12/Dec/2021 12:28:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:29:14,118 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:29:14,118 | 127.0.0.1 - - [12/Dec/2021 12:29:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:29:14,212 | 127.0.0.1 - - [12/Dec/2021 12:29:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:30:14,335 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:30:14,340 | 127.0.0.1 - - [12/Dec/2021 12:30:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:30:14,454 | 127.0.0.1 - - [12/Dec/2021 12:30:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:31:14,595 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:31:14,603 | 127.0.0.1 - - [12/Dec/2021 12:31:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:31:14,687 | 127.0.0.1 - - [12/Dec/2021 12:31:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 12:32:14,789 | Next scheduled update: None Seconds
+INFO | 2021-12-12 12:32:14,797 | 127.0.0.1 - - [12/Dec/2021 12:32:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 12:32:14,877 | 127.0.0.1 - - [12/Dec/2021 12:32:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:31:54,191 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:31:54,200 | 127.0.0.1 - - [12/Dec/2021 13:31:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:31:56,668 | 127.0.0.1 - - [12/Dec/2021 13:31:56] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:32:57,388 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:32:57,390 | 127.0.0.1 - - [12/Dec/2021 13:32:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:32:57,416 | 127.0.0.1 - - [12/Dec/2021 13:32:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:33:57,451 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:33:57,452 | 127.0.0.1 - - [12/Dec/2021 13:33:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:33:57,478 | 127.0.0.1 - - [12/Dec/2021 13:33:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:34:57,522 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:34:57,524 | 127.0.0.1 - - [12/Dec/2021 13:34:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:34:57,548 | 127.0.0.1 - - [12/Dec/2021 13:34:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:35:57,590 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:35:57,591 | 127.0.0.1 - - [12/Dec/2021 13:35:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:35:57,612 | 127.0.0.1 - - [12/Dec/2021 13:35:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 13:36:57,642 | Next scheduled update: None Seconds
+INFO | 2021-12-12 13:36:57,644 | 127.0.0.1 - - [12/Dec/2021 13:36:57] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 13:36:57,666 | 127.0.0.1 - - [12/Dec/2021 13:36:57] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:47:37,589 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:47:37,589 | 127.0.0.1 - - [12/Dec/2021 14:47:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:47:37,608 | 127.0.0.1 - - [12/Dec/2021 14:47:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:48:37,645 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:48:37,646 | 127.0.0.1 - - [12/Dec/2021 14:48:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:48:37,667 | 127.0.0.1 - - [12/Dec/2021 14:48:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:49:37,704 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:49:37,706 | 127.0.0.1 - - [12/Dec/2021 14:49:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:49:37,728 | 127.0.0.1 - - [12/Dec/2021 14:49:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:50:37,782 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:50:37,784 | 127.0.0.1 - - [12/Dec/2021 14:50:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:50:37,814 | 127.0.0.1 - - [12/Dec/2021 14:50:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:51:37,853 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:51:37,854 | 127.0.0.1 - - [12/Dec/2021 14:51:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:51:37,876 | 127.0.0.1 - - [12/Dec/2021 14:51:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:52:37,911 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:52:37,913 | 127.0.0.1 - - [12/Dec/2021 14:52:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:52:37,933 | 127.0.0.1 - - [12/Dec/2021 14:52:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:53:37,968 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:53:37,969 | 127.0.0.1 - - [12/Dec/2021 14:53:37] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:53:37,992 | 127.0.0.1 - - [12/Dec/2021 14:53:37] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:54:38,030 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:54:38,031 | 127.0.0.1 - - [12/Dec/2021 14:54:38] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:54:38,055 | 127.0.0.1 - - [12/Dec/2021 14:54:38] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:55:38,086 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:55:38,087 | 127.0.0.1 - - [12/Dec/2021 14:55:38] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:55:38,107 | 127.0.0.1 - - [12/Dec/2021 14:55:38] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:56:38,137 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:56:38,138 | 127.0.0.1 - - [12/Dec/2021 14:56:38] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:56:38,160 | 127.0.0.1 - - [12/Dec/2021 14:56:38] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:57:38,203 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:57:38,204 | 127.0.0.1 - - [12/Dec/2021 14:57:38] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:57:38,226 | 127.0.0.1 - - [12/Dec/2021 14:57:38] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:58:34,644 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:58:34,646 | 127.0.0.1 - - [12/Dec/2021 14:58:34] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:58:34,738 | 127.0.0.1 - - [12/Dec/2021 14:58:34] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 14:59:34,860 | Next scheduled update: None Seconds
+INFO | 2021-12-12 14:59:34,863 | 127.0.0.1 - - [12/Dec/2021 14:59:34] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 14:59:34,932 | 127.0.0.1 - - [12/Dec/2021 14:59:34] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:00:35,021 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:00:35,022 | 127.0.0.1 - - [12/Dec/2021 15:00:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:00:35,059 | 127.0.0.1 - - [12/Dec/2021 15:00:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:01:35,117 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:01:35,118 | 127.0.0.1 - - [12/Dec/2021 15:01:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:01:35,140 | 127.0.0.1 - - [12/Dec/2021 15:01:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:02:35,191 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:02:35,192 | 127.0.0.1 - - [12/Dec/2021 15:02:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:02:35,214 | 127.0.0.1 - - [12/Dec/2021 15:02:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:03:35,249 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:03:35,250 | 127.0.0.1 - - [12/Dec/2021 15:03:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:03:35,272 | 127.0.0.1 - - [12/Dec/2021 15:03:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:04:35,316 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:04:35,317 | 127.0.0.1 - - [12/Dec/2021 15:04:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:04:35,338 | 127.0.0.1 - - [12/Dec/2021 15:04:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 15:05:35,384 | Next scheduled update: None Seconds
+INFO | 2021-12-12 15:05:35,385 | 127.0.0.1 - - [12/Dec/2021 15:05:35] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 15:05:35,405 | 127.0.0.1 - - [12/Dec/2021 15:05:35] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:09:39,406 |  * Restarting with stat
+WARNING | 2021-12-12 16:09:40,891 |  * Debugger is active!
+INFO | 2021-12-12 16:09:40,894 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 16:09:42,089 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 16:15:50,010 |  * Restarting with stat
+WARNING | 2021-12-12 16:15:51,158 |  * Debugger is active!
+INFO | 2021-12-12 16:15:51,162 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 16:15:51,710 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 16:33:52,196 | 127.0.0.1 - - [12/Dec/2021 16:33:52] "[33mGET / HTTP/1.1[0m" 404 -
+INFO | 2021-12-12 16:33:52,277 | 127.0.0.1 - - [12/Dec/2021 16:33:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO | 2021-12-12 16:33:54,398 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:33:54,411 | 127.0.0.1 - - [12/Dec/2021 16:33:54] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:33:54,808 | 127.0.0.1 - - [12/Dec/2021 16:33:54] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:34:56,056 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:34:56,058 | 127.0.0.1 - - [12/Dec/2021 16:34:56] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:34:56,100 | 127.0.0.1 - - [12/Dec/2021 16:34:56] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:35:56,180 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:35:56,182 | 127.0.0.1 - - [12/Dec/2021 16:35:56] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:35:56,210 | 127.0.0.1 - - [12/Dec/2021 16:35:56] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:36:56,265 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:36:56,267 | 127.0.0.1 - - [12/Dec/2021 16:36:56] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:36:56,302 | 127.0.0.1 - - [12/Dec/2021 16:36:56] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:37:56,363 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:37:56,366 | 127.0.0.1 - - [12/Dec/2021 16:37:56] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:37:56,401 | 127.0.0.1 - - [12/Dec/2021 16:37:56] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:38:10,103 |  * Restarting with stat
+WARNING | 2021-12-12 16:38:11,265 |  * Debugger is active!
+INFO | 2021-12-12 16:38:11,277 |  * Debugger PIN: 129-337-477
+INFO | 2021-12-12 16:38:11,844 |  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO | 2021-12-12 16:38:14,369 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:38:14,403 | 127.0.0.1 - - [12/Dec/2021 16:38:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:38:14,884 | 127.0.0.1 - - [12/Dec/2021 16:38:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:39:14,915 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:39:14,917 | 127.0.0.1 - - [12/Dec/2021 16:39:14] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:39:14,960 | 127.0.0.1 - - [12/Dec/2021 16:39:14] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:40:15,031 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:40:15,033 | 127.0.0.1 - - [12/Dec/2021 16:40:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:40:15,070 | 127.0.0.1 - - [12/Dec/2021 16:40:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:41:15,151 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:41:15,154 | 127.0.0.1 - - [12/Dec/2021 16:41:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:41:15,198 | 127.0.0.1 - - [12/Dec/2021 16:41:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:42:15,290 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:42:15,292 | 127.0.0.1 - - [12/Dec/2021 16:42:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:42:15,333 | 127.0.0.1 - - [12/Dec/2021 16:42:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:43:15,389 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:43:15,391 | 127.0.0.1 - - [12/Dec/2021 16:43:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:43:15,430 | 127.0.0.1 - - [12/Dec/2021 16:43:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:44:15,491 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:44:15,493 | 127.0.0.1 - - [12/Dec/2021 16:44:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:44:15,533 | 127.0.0.1 - - [12/Dec/2021 16:44:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:45:15,597 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:45:15,599 | 127.0.0.1 - - [12/Dec/2021 16:45:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:45:15,640 | 127.0.0.1 - - [12/Dec/2021 16:45:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:46:15,712 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:46:15,713 | 127.0.0.1 - - [12/Dec/2021 16:46:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:46:15,751 | 127.0.0.1 - - [12/Dec/2021 16:46:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:47:15,809 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:47:15,811 | 127.0.0.1 - - [12/Dec/2021 16:47:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:47:15,846 | 127.0.0.1 - - [12/Dec/2021 16:47:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:48:15,906 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:48:15,909 | 127.0.0.1 - - [12/Dec/2021 16:48:15] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:48:15,945 | 127.0.0.1 - - [12/Dec/2021 16:48:15] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -
+INFO | 2021-12-12 16:49:16,008 | Next scheduled update: None Seconds
+INFO | 2021-12-12 16:49:16,009 | 127.0.0.1 - - [12/Dec/2021 16:49:16] "GET /index HTTP/1.1" 200 -
+INFO | 2021-12-12 16:49:16,042 | 127.0.0.1 - - [12/Dec/2021 16:49:16] "[36mGET /static/images/dashboard_logo.jpg HTTP/1.1[0m" 304 -

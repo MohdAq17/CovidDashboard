@@ -1,0 +1,8 @@
+{
+    "news_api_key": "Add your api key here",
+    "file_name": "nation_2021-10-28.csv",
+    "image" : "dashboard_logo.jpg",
+    "title" : "Covid Dashboard",
+    "covid_content": "Covid Data to be updated",
+    "news_content": "News to be updated"
+}
